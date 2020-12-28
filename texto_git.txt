@@ -7,3 +7,5 @@ para subir a github y luego editarla
 crear ramas y 
 
 finaslmente borrar
+
+esto se agrego en el remoto
